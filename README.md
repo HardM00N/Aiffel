@@ -1,1 +1,3 @@
-# Aiffel Fundamentals / Exploration Node
+## Aiffel
+- Fundamentals Node
+- Exploration Node
